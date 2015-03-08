@@ -4,11 +4,11 @@ Insane Invaders
 Game written in ActionScript3 inspired by Space Invaders.
 You can compile it with *mxmlc* from Flex SDK 4.6.
 
-# Library: [Flixel 2.35][flixel].
-# Music: RetroFuture Clean by [Kevin MacLeod][kevin].
-# Sounds were created with [sfxr][sfxr].
-# [Video of the gameplay][video].
-# Description and screenshots on [project page][ii].
+- Library: [Flixel 2.35][flixel].
+- Music: RetroFuture Clean by [Kevin MacLeod][kevin].
+- Sounds were created with [sfxr][sfxr].
+- [Video of the gameplay][video].
+- Description and screenshots on [project page][ii].
 
 [flixel]: http://flixel.org/
 [kevin]: http://incompetech.com/music/
