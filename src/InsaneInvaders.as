@@ -4,6 +4,7 @@ import org.flixel.FlxGame;
 import flash.ui.Mouse;
 
 [SWF(width="640", height="480", backgroundColor="#000000", frameRate=60)]
+[Frame(factoryClass="Preloader")] //Tells Flixel to use the default preloader 
 
 public class InsaneInvaders extends FlxGame {
 
